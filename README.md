@@ -19,16 +19,16 @@
 
 * Gambar 1
 
-![1.png](/gambar/1.png)
+![gambar1.png](/gambar/gambar1.png)
 
 * Gambar 2
 
-![2.png](/gambar/2.png)
+![gambar2.png](/gambar/gambar2.png)
 
 
 * Hasil dari Output seperti gambar di bawah ini
 
-![3.png](/gambar/3.png) 
+![gambar3.png](/gambar/gambar3.png) 
 
 
 
@@ -93,17 +93,17 @@
 
 * gambar 1
 
-![1.png](/gambar2/1.png)
+![gambar1.png](/gambar2/gambar1.png)
 
 * gambar 2
 
-![2.png](/gambar2/2.png)
+![gambar2.png](/gambar2/gambar2.png)
 
 * gambar 3
 
 Maka hasil output seperti di gambar ini
 
-![3.png](/gambar2/3.png)
+![gambar3.png](/gambar2/gambar3.png)
 
 
 #### code
